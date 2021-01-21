@@ -1,1 +1,1 @@
-this is a message from aaa
+this is a message from main checkout
